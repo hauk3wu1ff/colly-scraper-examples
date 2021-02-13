@@ -14,7 +14,7 @@ go mod init github.com/hauk3wu1ff/colly-scraper-examples
 # Create and run Basic example:
 * vi basic.go
 * Copy the code from http://go-colly.org/docs/examples/basic/ into the bfile basic.go in vim: Use i for insert and crtl-v to copy from system clipboard. 
-* Delete the automatically created by vimg go plugin with the {count}{motion}{action} command 7jd, which means move 7 lines down and delete. 
+* Delete the code automatically created by the vim go-plugin with the vi {count}{motion}{action}-command 7jd, which means move 7 lines down and delete. 
 * Run it with go
 ```
 go run basic.go
