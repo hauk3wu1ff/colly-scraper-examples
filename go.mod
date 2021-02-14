@@ -1,5 +1,7 @@
 module github.com/hauk3wu1ff/colly-scraper-examples
 
+go 1.15
+
 require (
 	github.com/PuerkitoBio/goquery v1.6.1 // indirect
 	github.com/antchfx/htmlquery v1.2.3 // indirect
